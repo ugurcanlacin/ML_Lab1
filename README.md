@@ -1,1 +1,1 @@
-# ML_Lab1
+# Introduction to Machine Learning - Lab 1
